@@ -2,7 +2,7 @@
   <h1>Muhammad Zaenal Abidin Abdurrahman</h1>
   <h3>Applied Machine Learning & Mathematics</h3>
   <p>
-    <b>Telecommunication Engineering Undergraduate (GPA 3.92/4.00)</b><br>
+    <b>Telecommunication Engineering Undergraduate (GPA 3.92 / 4.00)</b><br>
     <i>Telkom University, Indonesia</i>
   </p>
 </div>
@@ -11,47 +11,63 @@
 
 ### 👨‍💻 About Me
 
-I am an engineering student combining a strong foundation in **Signal Processing** and **Mathematics** to solve problems in **Artificial Intelligence**.
+I’m an engineering student with a strong background in **signal processing, calculus, and probability**, now pivoting towards **Applied Machine Learning**.
 
-My academic background in Telecommunication Engineering provides me with a rigorous understanding of linear systems, probability, and calculus. I am leveraging this technical depth to pivot towards **Applied Machine Learning Research**, with a specific interest in **Optimization** and **Deep Learning**.
+My current focus is:
 
-My objective is to pursue a Master’s degree in Japan to further specialize in bridging mathematical theory with real-world engineering applications.
+- Building a solid **mathematical foundation** for ML (linear algebra, calculus, probability & statistics).
+- Implementing **classical ML models** (SVM, tree–based models, regression) with clean, well-documented code.
+- Preparing for a future **Master’s in Machine Learning / AI abroad** (with a strong interest in Japan).
 
 ---
 
-### 📚 Research & Learning Log
+### 📚 Learning Log – Math for Machine Learning
 
-I maintain a structured documentation of my independent study in the mathematics behind AI. This repository serves as my "Digital Garden" for technical notes and progress tracking.
+I maintain a dedicated repository as my “digital garden” for math and ML notes.
 
-[**📂 View My Learning Repository**](https://github.com/Zendin110206/ml-path-to-mastery)
+> 🔗 **Learning repo (in progress):** `ml-path-to-mastery`  
+> *[**📂 View My Learning Repository**](https://github.com/Zendin110206/ml-path-to-mastery)*
 
-| Focus Area | Curriculum / Resource | Status |
-| :--- | :--- | :--- |
-| **Linear Algebra** | *Essence of Linear Algebra (3Blue1Brown)* | ✅ Completed |
-| **Calculus** | *Essence of Calculus (3Blue1Brown)* | ✅ Completed |
-| **Math for ML** | *Imperial College London (Coursera)* | 🔄 In Progress |
-| **Probability & Stats** | *Khan Academy / ISL* | 🔜 Planned |
+| Area                  | Resource / Curriculum                              | Status       |
+|-----------------------|----------------------------------------------------|--------------|
+| Linear Algebra        | *Essence of Linear Algebra* – 3Blue1Brown          | ✅ Completed |
+| Calculus              | *Essence of Calculus* – 3Blue1Brown                | ✅ Completed |
+| Math for ML           | *Mathematics for Machine Learning* – Coursera      | 🔄 In progress |
+| Probability & Stats   | Khan Academy + *An Introduction to Statistical Learning* | 🔜 Planned |
+
+---
+
+### 🧪 Featured Projects (to be expanded)
+
+- **Intrusion Detection with SVM** – end-to-end ML pipeline for network traffic classification (99.5% test accuracy).  
+- **Bank Marketing Conversion Model (XGBoost)** – competition project (Top 3 nationally, AUC ~0.79, strong business lift).  
+- **Flocify – Smart Aquaculture Platform** – IoT + Flutter + Firebase app for water-quality monitoring.
 
 ---
 
 ### 🏆 Selected Achievements
 
-* **Top 3 National Finalist — Data Quest Challenge DSI 2025**
-    * *Developed an end-to-end XGBoost pipeline for banking churn prediction (AUC 0.79).*
-* **1st Place — National Science Olympiad (OSN) Mathematics**
-    * *City Level (Pasuruan). Demonstrated strong logical and analytical problem-solving skills.*
-* **2nd Place — UNIIC 2025 International Hackathon (Uzbekistan)**
-    * *Represented Telkom University in a cross-functional international team.*
+- 🥉 **Top 3 National Finalist – Data Quest Challenge DSI 2025 (GoTo HQ, Jakarta)**  
+- 🥇 **1st Place – National Science Olympiad (OSN) Mathematics, Pasuruan City Level**  
+- 🥈 **2nd Place – UNIIC 2025 International Hackathon, Tashkent (Uzbekistan)**  
 
 ---
 
-### 🛠 Technical Proficiency
+### 🛠 Technical Stack
 
-**Languages & Frameworks**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+**Languages & Libraries**
 
-**Tools & Environment**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=flat-square&logo=obsidian&logoColor=white) ![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=flat-square&logo=latex&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-005571?style=flat-square&logo=matplotlib&logoColor=white)
+
+**Tools**
+
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=flat-square&logo=obsidian&logoColor=white)
 
 ---
 
