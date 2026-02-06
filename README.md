@@ -1,73 +1,123 @@
 <div align="center">
   <h1>Muhammad Zaenal Abidin Abdurrahman</h1>
-  <h3>Applied Machine Learning & Mathematics</h3>
+  <h3>Data Analyst • Applied Machine Learning • Mathematics</h3>
   <p>
     <b>Telecommunication Engineering Undergraduate (GPA 3.92 / 4.00)</b><br>
     <i>Telkom University, Indonesia</i>
+  </p>
+
+  <p>
+    <a href="https://linkedin.com/in/zendin1102">LinkedIn</a> •
+    <a href="mailto:zaenal.abidin110206@gmail.com">Email</a> •
+    <a href="#-portfolio-quick-start-recruiter">Portfolio Quick Start</a>
   </p>
 </div>
 
 ---
 
-### 👨‍💻 About Me
+## 🚀 Portfolio Quick Start (Recruiter)
 
-I’m an engineering student with a strong background in **signal processing, calculus, and probability**, now pivoting towards **Applied Machine Learning**.
+If you only have **5 minutes**, start here (ordered by “most job-relevant”):
 
-My current focus is:
-
-- Building a solid **mathematical foundation** for ML (linear algebra, calculus, probability & statistics).
-- Implementing **classical ML models** (SVM, tree–based models, regression) with clean, well-documented code.
-- Preparing for a future **Master’s in Machine Learning / AI abroad** (with a strong interest in Japan).
+1) **Hotel Revenue Analysis (SQL Server → Power BI Dashboard)**  
+2) **Retail Shop Sales Analysis (MySQL → Business KPIs & Insights)**  
+3) **COVID-19 Data Exploration (Advanced SQL → Tableau Dashboard)**  
+4) **Nashville Housing Data Cleaning (SQL Data Cleaning Script)**  
+5) **Customer Segmentation (RFM + KMeans)**  
+6) **Titanic Survival Prediction (Classic ML baseline)**  
+7) **Linear Regression from Scratch (NumPy + Gradient Descent + Animations)**  
 
 ---
 
-### 📚 Learning Log – Math for Machine Learning
+## 🧭 Portfolio Map (Where to Click)
 
-I maintain a dedicated repository as my “digital garden” for math and ML notes.
+| Project | Repo | What to open first | Proof / Key Artifacts |
+|---|---|---|---|
+| **Hotel Revenue Analysis (SQL Server + Power BI)** | https://github.com/Zendin110206/PowerBI_SQL_Hotel_Analysis | `README.md` | `Hotel_Revenue_Analysis.sql` • `visualization/` (PBIX + screenshots) • `data/` |
+| **Retail Shop Sales Analysis (MySQL)** | https://github.com/Zendin110206/retail-shop-analysis-mysql | `README.md` | `retail_shop_analysis.sql` |
+| **COVID-19 SQL Exploration + Tableau** | https://github.com/Zendin110206/covid-data-exploration-sql | `README.md` | `Covid_Portfolio_Project.sql` • `visualization/` (Tableau workbook + screenshot) |
+| **Nashville Housing Data Cleaning** | https://github.com/Zendin110206/sql-data-cleaning-nashville | `README.md` | `DataCleaning_Nashville.sql` |
+| **Customer Segmentation (RFM + KMeans)** | https://github.com/Zendin110206/online-retail-customer-segmentation | `README.md` | `notebooks/online-retail-clustering.ipynb` |
+| **Titanic Survival Prediction** | https://github.com/Zendin110206/titanic-survival-prediction | `README.md` | `titanic_classification.ipynb` |
+| **Linear Regression from Scratch (NumPy)** | https://github.com/Zendin110206/linear-regression-scratch-python | `README.md` | `notebooks/linear_regression_scratch.ipynb` • `assets/` (GIF training) • `notebooks/linear_regression_scratch.pdf` |
+| **Learning Log (Math for ML “Digital Garden”)** | https://github.com/Zendin110206/ml-path-to-mastery | repo root | structured notes + roadmap |
+
+> I keep each repo self-contained with a clear README, reproducible steps, and artifacts (SQL scripts, dashboards, notebooks).
+
+---
+
+## 📌 Featured Work (Proof-of-Work)
+
+### Data Analyst / BI (Most Relevant)
+- **Hotel Revenue Analysis (SQL Server + Power BI)**  
+  Repo: https://github.com/Zendin110206/PowerBI_SQL_Hotel_Analysis  
+  Focus: SQL (CTE/UNION/JOIN), KPI definition, business insights, Power BI dashboarding.
+
+- **Retail Shop Sales Analysis (MySQL)**  
+  Repo: https://github.com/Zendin110206/retail-shop-analysis-mysql  
+  Focus: SQL analytics for business KPIs (clean query structure, insight-driven analysis).
+
+- **COVID-19 Data Exploration (SQL + Tableau)**  
+  Repo: https://github.com/Zendin110206/covid-data-exploration-sql  
+  Focus: advanced SQL exploration + dashboard storytelling.
+
+- **SQL Data Cleaning (Nashville Housing)**  
+  Repo: https://github.com/Zendin110206/sql-data-cleaning-nashville  
+  Focus: reproducible end-to-end cleaning script (standardization + transformation).
+
+### Applied ML (Supportive but Valuable)
+- **Customer Segmentation (RFM + KMeans)**  
+  Repo: https://github.com/Zendin110206/online-retail-customer-segmentation  
+  Focus: analytics workflow + clustering → actionable strategies.
+
+- **Titanic Survival Prediction**  
+  Repo: https://github.com/Zendin110206/titanic-survival-prediction  
+  Focus: classic supervised ML baseline + clean notebook workflow.
+
+- **Linear Regression from Scratch (NumPy)**  
+  Repo: https://github.com/Zendin110206/linear-regression-scratch-python  
+  Focus: calculus + optimization (gradient descent) + training visualization.
+
+---
+
+## 🧪 Additional Projects (Code available upon request / being organized)
+- **Bank Marketing Conversion Prediction (XGBoost, Optuna, Stratified K-Fold)** — competition-style end-to-end ML with business lift/gains analysis.  
+- **Network Intrusion Detection (SVM RBF)** — anomaly classification + feature selection emphasis.  
+- **Superstore Profit Leak (WIP)** — repo created, currently being filled: https://github.com/Zendin110206/superstore-profit-leak
+
+---
+
+## 📚 Learning Log – Math for Machine Learning (keep as-is)
 
 > 🔗 **Learning repo (in progress):** `ml-path-to-mastery`  
-> *[**📂 View My Learning Repository**](https://github.com/Zendin110206/ml-path-to-mastery)*
+> **📂 Repo:** https://github.com/Zendin110206/ml-path-to-mastery
 
-| Area                  | Resource / Curriculum                              | Status       |
-|-----------------------|----------------------------------------------------|--------------|
-| Linear Algebra        | *Essence of Linear Algebra* – 3Blue1Brown          | ✅ Completed |
-| Calculus              | *Essence of Calculus* – 3Blue1Brown                | ✅ Completed |
-| Math for ML           | *Mathematics for Machine Learning* – Coursera      | 🔄 In progress |
-| Probability & Stats   | Khan Academy + *An Introduction to Statistical Learning* | 🔜 Planned |
-
----
-
-### 🧪 Featured Projects (to be expanded)
-
-- **Intrusion Detection with SVM** – end-to-end ML pipeline for network traffic classification (99.5% test accuracy).  
-- **Bank Marketing Conversion Model (XGBoost)** – competition project (Top 3 nationally, AUC ~0.79, strong business lift).  
-- **Flocify – Smart Aquaculture Platform** – IoT + Flutter + Firebase app for water-quality monitoring.
+| Area | Resource / Curriculum | Status |
+|---|---|---|
+| Linear Algebra | *Essence of Linear Algebra* – 3Blue1Brown | ✅ Completed |
+| Calculus | *Essence of Calculus* – 3Blue1Brown | ✅ Completed |
+| Math for ML | *Mathematics for Machine Learning* – Coursera | 🔄 In progress |
+| Probability & Stats | Khan Academy + *ISL* | 🔜 Planned |
 
 ---
 
-### 🏆 Selected Achievements
-
-- 🥉 **Top 3 National Finalist – Data Quest Challenge DSI 2025 (GoTo HQ, Jakarta)**  
-- 🥇 **1st Place – National Science Olympiad (OSN) Mathematics, Pasuruan City Level**  
-- 🥈 **2nd Place – UNIIC 2025 International Hackathon, Tashkent (Uzbekistan)**  
+## 🏆 Selected Achievements
+- 🥉 **Top 3 National Finalist – Data Quest Challenge DSI 2025 (GoTo HQ, Jakarta)**
+- 🥇 **1st Place – OSN Mathematics (Pasuruan City Level)**
+- 🥈 **2nd Place – UNIIC 2025 International Hackathon (Uzbekistan)**
 
 ---
 
-### 🛠 Technical Stack
+## 🛠 Tech Stack
+**Data / Analytics**
+- SQL (SQL Server, MySQL), Excel
+- Power BI, Tableau
 
-**Languages & Libraries**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-005571?style=flat-square&logo=matplotlib&logoColor=white)
+**Machine Learning**
+- Python (NumPy, Pandas, scikit-learn, Matplotlib)
 
 **Tools**
-
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=flat-square&logo=obsidian&logoColor=white)
+- Git/GitHub, Jupyter Notebook, VS Code
 
 ---
 
