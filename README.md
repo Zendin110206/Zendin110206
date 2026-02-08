@@ -15,9 +15,7 @@
 
 ---
 
-## 🚀 Portfolio Quick Start (Recruiter)
-
-If you only have **5 minutes**, start here (ordered by “most job-relevant”):
+## 🚀 Portfolio Quick Start
 
 1) **Hotel Revenue Analysis (SQL Server → Power BI Dashboard)**  
 2) **Retail Shop Sales Analysis (MySQL → Business KPIs & Insights)**  
