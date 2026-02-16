@@ -2,7 +2,7 @@
   <h1>Muhammad Zaenal Abidin Abdurrahman</h1>
   <h3>Data Analyst • Applied Machine Learning • Mathematics</h3>
   <p>
-    <b>Telecommunication Engineering Undergraduate (GPA 3.92 / 4.00)</b><br>
+    <b>Telecommunication Engineering Undergraduate (GPA 3.91 / 4.00)</b><br>
     <i>Telkom University, Indonesia</i>
   </p>
 
