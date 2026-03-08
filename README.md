@@ -1,3 +1,6 @@
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there!;Nice+to+meet+you!&fontSize=40&fontWeight=bold)
+
+
 <div align="center">
 
 # Muhammad Zaenal Abidin Abdurrahman
