@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=3200&pause=900&center=true&vCenter=true&width=900&lines=Applied+Machine+Learning+%7C+Data+Science+%7C+Analytics;Telecommunication+Engineering+Undergraduate+at+Telkom+University;Building+strong+fundamentals+in+Math%2C+ML%2C+and+real-world+data+projects" alt="Typing SVG" />
 
 **Applied Machine Learning • Data Science • Analytics**  
-Telecommunication Engineering Undergraduate at **Telkom University** (**GPA 3.92/4.00**)  
+Telecommunication Engineering Undergraduate at **Telkom University** (**GPA 3.91/4.00**)  
 Based in **Indonesia** • Open to **internship, research, and collaboration** opportunities
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Zendin1102-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zendin1102/)
