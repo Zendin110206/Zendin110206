@@ -14,7 +14,7 @@ Based in **Indonesia** • Open to **internship, research, and collaboration** o
 [![GitHub](https://img.shields.io/badge/GitHub-Zendin110206-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Zendin110206)
 
 <p>
-  <!-- <img height="165" src="https://github-readme-stats.vercel.app/api?username=Zendin110206&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" /> Still down-->
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Zendin110206&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&rank_icon=github&custom_title=GitHub%20Stats" alt="GitHub Stats" />
   <img height="165" src="https://streak-stats.demolab.com?user=Zendin110206&theme=transparent&hide_border=true" alt="GitHub Streak" />
 </p>
 
