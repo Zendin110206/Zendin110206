@@ -13,8 +13,8 @@ Based in **Indonesia** • Open to **internship, research, and collaboration** o
 [![Portfolio](https://img.shields.io/badge/Portfolio-GitHub_Website-111111?style=flat-square&logo=github&logoColor=white)](https://github.com/Zendin110206/zaenal-abidin-portfolio)
 [![GitHub](https://img.shields.io/badge/GitHub-Zendin110206-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Zendin110206)
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Zendin110206&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&rank_icon=github&custom_title=GitHub%20Stats" alt="GitHub Stats" />
+<!-- <p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Zendin110206&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&rank_icon=github&custom_title=GitHub%20Stats" alt="GitHub Stats" /> down/unstable-->
   <img height="165" src="https://streak-stats.demolab.com?user=Zendin110206&theme=transparent&hide_border=true" alt="GitHub Streak" />
 </p>
 
