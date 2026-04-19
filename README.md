@@ -138,7 +138,6 @@ A focused data-cleaning project demonstrating practical SQL transformation and s
 - **Top 3 Finalist** — Data Quest Challenge DSI 2025
 - **2nd Place** — UNIIC 2025 International Young Innovate Hackathon
 - **1st Place** — OSN Mathematics (City Level)
-- **Teaching Assistant at Daskom** — mentored 400+ first-year students
 
 ---
 
