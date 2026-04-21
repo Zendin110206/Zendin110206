@@ -163,7 +163,7 @@ Right now, I am focusing on:
 ## Contact
 
 - **LinkedIn:** [linkedin.com/in/zendin1102](https://www.linkedin.com/in/zendin1102/)
-- **Email:** [zaenal.abidin110206@gmail.com](mailto:zendin.work@gmail.com)
+- **Email:** [zendin.work@gmail.com](mailto:zendin.work@gmail.com)
 - **GitHub:** [github.com/Zendin110206](https://github.com/Zendin110206)
 
 Thanks for visiting my profile.
