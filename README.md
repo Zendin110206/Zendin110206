@@ -9,7 +9,7 @@ Telecommunication Engineering Undergraduate at **Telkom University** (**GPA 3.91
 Based in **Indonesia** • Open to **internship, research, and collaboration** opportunities
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Zendin1102-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zendin1102/)
-[![Email](https://img.shields.io/badge/Email-zaenal.abidin110206%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:zaenal.abidin110206@gmail.com)
+[![Email](https://img.shields.io/badge/Email-zendin.work%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:zendin.work@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-GitHub_Website-111111?style=flat-square&logo=github&logoColor=white)](https://github.com/Zendin110206/zaenal-abidin-portfolio)
 [![GitHub](https://img.shields.io/badge/GitHub-Zendin110206-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Zendin110206)
 
