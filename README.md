@@ -31,12 +31,12 @@ I am still developing my depth in this field, so I try to keep each project clea
 
 ## Long-Term Direction
 
-| Direction | What I am trying to build |
-|---|---|
-| Applied ML systems | ML prototypes that can be served through APIs, connected to apps, and explained clearly |
-| Data analytics | SQL workflows, BI dashboards, KPI analysis, and decision-focused reporting |
+| Direction                  | What I am trying to build                                                                |
+| -------------------------- | ---------------------------------------------------------------------------------------- |
+| Applied ML systems         | ML prototypes that can be served through APIs, connected to apps, and explained clearly  |
+| Data analytics             | SQL workflows, BI dashboards, KPI analysis, and decision-focused reporting               |
 | Telco and operational data | Forecasting, anomaly candidates, and monitoring ideas for network-style time-series data |
-| ML foundations | Mathematical intuition, model evaluation, and from-scratch implementation practice |
+| ML foundations             | Mathematical intuition, model evaluation, and from-scratch implementation practice       |
 
 ---
 
@@ -100,13 +100,25 @@ Analytics dashboard project for employee attrition exploration and intervention 
 
 ---
 
+### [IMV Customer Segmentation with K-Means](https://github.com/Zendin110206/imv-customer-segmentation-kmeans)
+
+Customer segmentation project using the Olist Brazilian E-Commerce Public Dataset. It turns raw relational e-commerce tables into customer-level behavioral features, evaluates K-Means cluster options, and explains the final customer segments in business-friendly language.
+
+**Shows:** customer analytics, raw data audit, customer-level feature engineering, clustering evaluation, segment profiling, business interpretation
+
+**Stack:** `Python` `Pandas` `NumPy` `scikit-learn` `K-Means` `Matplotlib` `Seaborn`
+
+**Scope:** Individual machine learning assignment using public anonymized e-commerce data, not production customer labels.
+
+---
+
 ### ML Foundations and AI Learning Portfolio
 
-A combined learning track that supports the applied projects above: math notes, ML derivations, from-scratch implementation, structured AI development assignments, Python practice, SQL/database practice, and NLP/RAG exercises.
+A combined learning track that supports the applied projects above: math notes, ML derivations, from-scratch implementation, structured AI development assignments, 21-project Python practice with tests/linting, SQL/database practice, and NLP/RAG exercises.
 
-**Shows:** mathematical intuition, structured learning discipline, Python/SQL fluency, notebook-based ML practice, and gradual preparation for applied ML work
+**Shows:** mathematical intuition, structured learning discipline, Python/SQL fluency, notebook-based ML practice, testable small-program implementation, and gradual preparation for applied ML work
 
-**Related:** [ML Path to Mastery](https://github.com/Zendin110206/ml-path-to-mastery), [AI Development B10 Learning Portfolio](https://github.com/Zendin110206/tugas_python_ai_b10), [Linear Regression from Scratch](https://github.com/Zendin110206/linear-regression-scratch-python), [NLP with HF Transformers](https://github.com/Zendin110206/NLP_with_HF_Transformers), [RAG Parameter Exploration](https://github.com/Zendin110206/tugas-rag-nlp)
+**Related:** [ML Path to Mastery](https://github.com/Zendin110206/ml-path-to-mastery), [AI Development B10 Learning Portfolio](https://github.com/Zendin110206/tugas_python_ai_b10), [Python Projects Learning Portfolio](https://github.com/Zendin110206/python-projects-learning-portfolio), [Linear Regression from Scratch](https://github.com/Zendin110206/linear-regression-scratch-python), [NLP with HF Transformers](https://github.com/Zendin110206/NLP_with_HF_Transformers), [RAG Parameter Exploration](https://github.com/Zendin110206/tugas-rag-nlp)
 
 ---
 
@@ -114,58 +126,62 @@ A combined learning track that supports the applied projects above: math notes, 
 
 ### Core Portfolio
 
-| Area | Project | Short Description |
-|---|---|---|
-| ML API | [KoopCare MLOps Credit Scoring API](https://github.com/Zendin110206/koopcare-mlops-credit-scoring-api) | ML inference API for credit-scoring decision support with documented limitations |
-| ML + Product | [KoopCare Fullstack Demo](https://github.com/Zendin110206/koopcare-fullstack-demo-platform) | Fullstack workflow connecting financing applications with ML-assisted review |
-| Telco ML | [Telco KPI MLOps Platform](https://github.com/Zendin110206/telco-kpi-mlops-platform) | Forecasting and anomaly candidate detection for telecom KPI time-series data |
-| Recommender System | [BookFlix](https://github.com/Zendin110206/End-to-End-Book-Recommendation-System) | End-to-end collaborative filtering app with Streamlit and Docker |
-| Business Analytics | [HR Analytics SQL + Power BI](https://github.com/Zendin110206/hr-analytics-sql-powerbi) | Attrition analytics dashboard with SQL preparation and action-oriented BI |
-| Business Analytics | [Hotel Revenue Analysis](https://github.com/Zendin110206/PowerBI_SQL_Hotel_Analysis) | SQL Server and Power BI analysis of hotel revenue, seasonality, and parking demand |
-| Business Analytics | [Retail Shop Analysis](https://github.com/Zendin110206/retail-shop-analysis-mysql) | MySQL and Power BI workflow for retail sales and operational KPI analysis |
-| Customer Analytics | [Online Retail Segmentation](https://github.com/Zendin110206/online-retail-customer-segmentation) | RFM analysis and K-Means clustering for customer segmentation |
-| SQL Foundations | [COVID Data Exploration](https://github.com/Zendin110206/covid-data-exploration-sql) | SQL exploration using joins, CTEs, window functions, temp tables, and Tableau-ready views |
-| SQL Foundations | [Nashville Housing Cleaning](https://github.com/Zendin110206/sql-data-cleaning-nashville) | Practical SQL data cleaning with date standardization, parsing, and deduplication |
-| ML Foundations | [Linear Regression from Scratch](https://github.com/Zendin110206/linear-regression-scratch-python) | NumPy implementation of linear regression, MSE, and gradient descent |
-| Learning Log | [ML Path to Mastery](https://github.com/Zendin110206/ml-path-to-mastery) | Long-term math and ML foundation notes for applied machine learning |
-| Learning Log | [AI Development B10 Learning Portfolio](https://github.com/Zendin110206/tugas_python_ai_b10) | Structured Python, SQL, ML, deep learning, NLP, RAG, and practice archive |
+| Area               | Project                                                                                                  | Short Description                                                                         |
+| ------------------ | -------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| ML API             | [KoopCare MLOps Credit Scoring API](https://github.com/Zendin110206/koopcare-mlops-credit-scoring-api)   | ML inference API for credit-scoring decision support with documented limitations          |
+| ML + Product       | [KoopCare Fullstack Demo](https://github.com/Zendin110206/koopcare-fullstack-demo-platform)              | Fullstack workflow connecting financing applications with ML-assisted review              |
+| Telco ML           | [Telco KPI MLOps Platform](https://github.com/Zendin110206/telco-kpi-mlops-platform)                     | Forecasting and anomaly candidate detection for telecom KPI time-series data              |
+| Recommender System | [BookFlix](https://github.com/Zendin110206/End-to-End-Book-Recommendation-System)                        | End-to-end collaborative filtering app with Streamlit and Docker                          |
+| Business Analytics | [HR Analytics SQL + Power BI](https://github.com/Zendin110206/hr-analytics-sql-powerbi)                  | Attrition analytics dashboard with SQL preparation and action-oriented BI                 |
+| Business Analytics | [Hotel Revenue Analysis](https://github.com/Zendin110206/PowerBI_SQL_Hotel_Analysis)                     | SQL Server and Power BI analysis of hotel revenue, seasonality, and parking demand        |
+| Business Analytics | [Retail Shop Analysis](https://github.com/Zendin110206/retail-shop-analysis-mysql)                       | MySQL and Power BI workflow for retail sales and operational KPI analysis                 |
+| Customer Analytics | [IMV Customer Segmentation](https://github.com/Zendin110206/imv-customer-segmentation-kmeans)            | K-Means segmentation on Olist e-commerce customer behavior with business interpretation   |
+| Customer Analytics | [Online Retail Segmentation](https://github.com/Zendin110206/online-retail-customer-segmentation)        | RFM analysis and K-Means clustering for customer segmentation                             |
+| SQL Foundations    | [COVID Data Exploration](https://github.com/Zendin110206/covid-data-exploration-sql)                     | SQL exploration using joins, CTEs, window functions, temp tables, and Tableau-ready views |
+| SQL Foundations    | [Nashville Housing Cleaning](https://github.com/Zendin110206/sql-data-cleaning-nashville)                | Practical SQL data cleaning with date standardization, parsing, and deduplication         |
+| ML Foundations     | [Linear Regression from Scratch](https://github.com/Zendin110206/linear-regression-scratch-python)       | NumPy implementation of linear regression, MSE, and gradient descent                      |
+| Learning Log       | [ML Path to Mastery](https://github.com/Zendin110206/ml-path-to-mastery)                                 | Long-term math and ML foundation notes for applied machine learning                       |
+| Learning Log       | [AI Development B10 Learning Portfolio](https://github.com/Zendin110206/tugas_python_ai_b10)             | Structured Python, SQL, ML, deep learning, NLP, RAG, and practice archive                 |
+| Python Practice    | [Python Projects Learning Portfolio](https://github.com/Zendin110206/python-projects-learning-portfolio) | 21-project Python practice portfolio with documentation, automated checks, linting, and GitHub Actions |
 
 <details>
 <summary><strong>Full repository map</strong></summary>
 
-| Group | Repository | Notes |
-|---|---|---|
-| Profile | [Zendin110206](https://github.com/Zendin110206/Zendin110206) | This GitHub profile README |
-| Flagship ML/API | [koopcare-mlops-credit-scoring-api](https://github.com/Zendin110206/koopcare-mlops-credit-scoring-api) | FastAPI + XGBoost decision-support inference API |
-| Flagship ML/Product | [koopcare-fullstack-demo-platform](https://github.com/Zendin110206/koopcare-fullstack-demo-platform) | Fullstack financing workflow demo integrated with ML scoring |
-| Flagship Telco | [telco-kpi-mlops-platform](https://github.com/Zendin110206/telco-kpi-mlops-platform) | Telco KPI forecasting and anomaly candidate detection prototype |
-| Flagship Recommender | [End-to-End-Book-Recommendation-System](https://github.com/Zendin110206/End-to-End-Book-Recommendation-System) | BookFlix collaborative filtering app with Streamlit and Docker |
-| Analytics | [hr-analytics-sql-powerbi](https://github.com/Zendin110206/hr-analytics-sql-powerbi) | HR attrition analytics dashboard with SQL and Power BI |
-| Analytics | [PowerBI_SQL_Hotel_Analysis](https://github.com/Zendin110206/PowerBI_SQL_Hotel_Analysis) | Hotel revenue analysis with SQL Server and Power BI |
-| Analytics | [retail-shop-analysis-mysql](https://github.com/Zendin110206/retail-shop-analysis-mysql) | Retail sales analysis using MySQL and Power BI |
-| Analytics | [online-retail-customer-segmentation](https://github.com/Zendin110206/online-retail-customer-segmentation) | RFM analysis and K-Means customer segmentation |
-| Analytics | [indonesia-market-expansion-intelligence](https://github.com/Zendin110206/indonesia-market-expansion-intelligence) | In-progress public-data market expansion intelligence project |
-| SQL Foundations | [covid-data-exploration-sql](https://github.com/Zendin110206/covid-data-exploration-sql) | SQL exploration and Tableau-ready COVID data views |
-| SQL Foundations | [sql-data-cleaning-nashville](https://github.com/Zendin110206/sql-data-cleaning-nashville) | SQL data cleaning, parsing, standardization, and deduplication |
-| ML Foundations | [linear-regression-scratch-python](https://github.com/Zendin110206/linear-regression-scratch-python) | Linear regression implemented from first principles in NumPy |
-| ML Foundations | [ml-path-to-mastery](https://github.com/Zendin110206/ml-path-to-mastery) | Math and ML foundation notes for long-term applied ML preparation |
-| ML Practice | [titanic-survival-prediction](https://github.com/Zendin110206/titanic-survival-prediction) | Kaggle Titanic classification practice with feature engineering |
-| AI Learning | [tugas_python_ai_b10](https://github.com/Zendin110206/tugas_python_ai_b10) | Structured Python, SQL, ML, deep learning, NLP, and RAG learning archive |
-| NLP/RAG | [NLP_with_HF_Transformers](https://github.com/Zendin110206/NLP_with_HF_Transformers) | Hugging Face Transformers practice for common NLP tasks |
-| NLP/RAG | [tugas-rag-nlp](https://github.com/Zendin110206/tugas-rag-nlp) | RAG parameter exploration with chunking, retrieval, reranking, and generation settings |
-| NLP/Recommender | [semantic-book-recommender](https://github.com/Zendin110206/semantic-book-recommender) | In-development semantic book recommender |
-| AI-Agent Experiment | [semantic-book-recommender-codex-agent-benchmark](https://github.com/Zendin110206/semantic-book-recommender-codex-agent-benchmark) | AI-agent benchmark experiment, not positioned as primary personal coding proof |
-| Product/Team Context | [Daskomku](https://github.com/Zendin110206/Daskomku) | Internal recruitment workflow platform for lab candidate operations |
-| Product/Team Context | [daskomrec25](https://github.com/Zendin110206/daskomrec25) | Team/fork recruitment platform context |
-| Product/Team Context | [flocify-app](https://github.com/Zendin110206/flocify-app) | Flutter/Firebase aquaculture app prototype from earlier product exploration |
-| Product/Team Context | [flocify-timeline](https://github.com/Zendin110206/flocify-timeline) | Internal project timeline/dashboard prototype |
-| Product/Team Context | [Plantify](https://github.com/Zendin110206/Plantify) | Team/fork plant e-commerce platform |
-| Product/Team Context | [Website-Studi-Kasus-Academy-Ruang-Desa](https://github.com/Zendin110206/Website-Studi-Kasus-Academy-Ruang-Desa) | Team web case-study project for village information/services |
-| Frontend/Profile | [zaenal-abidin-portfolio](https://github.com/Zendin110206/zaenal-abidin-portfolio) | Personal portfolio frontend prototype |
-| Learning Archive | [2024-Academy](https://github.com/Zendin110206/2024-Academy) | Academy resource/fork archive |
-| Learning Archive | [complete-pandas-tutorial](https://github.com/Zendin110206/complete-pandas-tutorial) | Pandas tutorial/fork used for learning |
-| Learning Archive | [dart_latihan](https://github.com/Zendin110206/dart_latihan) | Dart fundamentals practice |
-| Placeholder | [superstore-profit-leak](https://github.com/Zendin110206/superstore-profit-leak) | Empty/placeholder repository, not featured |
+| Group                | Repository                                                                                                                         | Notes                                                                                                         |
+| -------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| Profile              | [Zendin110206](https://github.com/Zendin110206/Zendin110206)                                                                       | This GitHub profile README                                                                                    |
+| Flagship ML/API      | [koopcare-mlops-credit-scoring-api](https://github.com/Zendin110206/koopcare-mlops-credit-scoring-api)                             | FastAPI + XGBoost decision-support inference API                                                              |
+| Flagship ML/Product  | [koopcare-fullstack-demo-platform](https://github.com/Zendin110206/koopcare-fullstack-demo-platform)                               | Fullstack financing workflow demo integrated with ML scoring                                                  |
+| Flagship Telco       | [telco-kpi-mlops-platform](https://github.com/Zendin110206/telco-kpi-mlops-platform)                                               | Telco KPI forecasting and anomaly candidate detection prototype                                               |
+| Flagship Recommender | [End-to-End-Book-Recommendation-System](https://github.com/Zendin110206/End-to-End-Book-Recommendation-System)                     | BookFlix collaborative filtering app with Streamlit and Docker                                                |
+| Analytics            | [hr-analytics-sql-powerbi](https://github.com/Zendin110206/hr-analytics-sql-powerbi)                                               | HR attrition analytics dashboard with SQL and Power BI                                                        |
+| Analytics            | [PowerBI_SQL_Hotel_Analysis](https://github.com/Zendin110206/PowerBI_SQL_Hotel_Analysis)                                           | Hotel revenue analysis with SQL Server and Power BI                                                           |
+| Analytics            | [retail-shop-analysis-mysql](https://github.com/Zendin110206/retail-shop-analysis-mysql)                                           | Retail sales analysis using MySQL and Power BI                                                                |
+| Analytics            | [imv-customer-segmentation-kmeans](https://github.com/Zendin110206/imv-customer-segmentation-kmeans)                               | Olist customer segmentation with K-Means, feature engineering, clustering metrics, and segment interpretation |
+| Analytics            | [online-retail-customer-segmentation](https://github.com/Zendin110206/online-retail-customer-segmentation)                         | RFM analysis and K-Means customer segmentation                                                                |
+| Analytics            | [indonesia-market-expansion-intelligence](https://github.com/Zendin110206/indonesia-market-expansion-intelligence)                 | In-progress public-data market expansion intelligence project                                                 |
+| SQL Foundations      | [covid-data-exploration-sql](https://github.com/Zendin110206/covid-data-exploration-sql)                                           | SQL exploration and Tableau-ready COVID data views                                                            |
+| SQL Foundations      | [sql-data-cleaning-nashville](https://github.com/Zendin110206/sql-data-cleaning-nashville)                                         | SQL data cleaning, parsing, standardization, and deduplication                                                |
+| ML Foundations       | [linear-regression-scratch-python](https://github.com/Zendin110206/linear-regression-scratch-python)                               | Linear regression implemented from first principles in NumPy                                                  |
+| ML Foundations       | [ml-path-to-mastery](https://github.com/Zendin110206/ml-path-to-mastery)                                                           | Math and ML foundation notes for long-term applied ML preparation                                             |
+| ML Practice          | [titanic-survival-prediction](https://github.com/Zendin110206/titanic-survival-prediction)                                         | Kaggle Titanic classification practice with feature engineering                                               |
+| AI Learning          | [tugas_python_ai_b10](https://github.com/Zendin110206/tugas_python_ai_b10)                                                         | Structured Python, SQL, ML, deep learning, NLP, and RAG learning archive                                      |
+| Python Practice      | [python-projects-learning-portfolio](https://github.com/Zendin110206/python-projects-learning-portfolio)                           | 21 small Python projects for fundamentals, CLI apps, tests, Ruff linting, and CI practice                    |
+| NLP/RAG              | [NLP_with_HF_Transformers](https://github.com/Zendin110206/NLP_with_HF_Transformers)                                               | Hugging Face Transformers practice for common NLP tasks                                                       |
+| NLP/RAG              | [tugas-rag-nlp](https://github.com/Zendin110206/tugas-rag-nlp)                                                                     | RAG parameter exploration with chunking, retrieval, reranking, and generation settings                        |
+| NLP/Recommender      | [semantic-book-recommender](https://github.com/Zendin110206/semantic-book-recommender)                                             | In-development semantic book recommender                                                                      |
+| AI-Agent Experiment  | [semantic-book-recommender-codex-agent-benchmark](https://github.com/Zendin110206/semantic-book-recommender-codex-agent-benchmark) | AI-agent benchmark experiment, not positioned as primary personal coding proof                                |
+| Product/Team Context | [Daskomku](https://github.com/Zendin110206/Daskomku)                                                                               | Internal recruitment workflow platform for lab candidate operations                                           |
+| Product/Team Context | [daskomrec25](https://github.com/Zendin110206/daskomrec25)                                                                         | Team/fork recruitment platform context                                                                        |
+| Product/Team Context | [flocify-app](https://github.com/Zendin110206/flocify-app)                                                                         | Flutter/Firebase aquaculture app prototype from earlier product exploration                                   |
+| Product/Team Context | [flocify-timeline](https://github.com/Zendin110206/flocify-timeline)                                                               | Internal project timeline/dashboard prototype                                                                 |
+| Product/Team Context | [Plantify](https://github.com/Zendin110206/Plantify)                                                                               | Team/fork plant e-commerce platform                                                                           |
+| Product/Team Context | [Website-Studi-Kasus-Academy-Ruang-Desa](https://github.com/Zendin110206/Website-Studi-Kasus-Academy-Ruang-Desa)                   | Team web case-study project for village information/services                                                  |
+| Frontend/Profile     | [zaenal-abidin-portfolio](https://github.com/Zendin110206/zaenal-abidin-portfolio)                                                 | Personal portfolio frontend prototype                                                                         |
+| Learning Archive     | [2024-Academy](https://github.com/Zendin110206/2024-Academy)                                                                       | Academy resource/fork archive                                                                                 |
+| Learning Archive     | [complete-pandas-tutorial](https://github.com/Zendin110206/complete-pandas-tutorial)                                               | Pandas tutorial/fork used for learning                                                                        |
+| Learning Archive     | [dart_latihan](https://github.com/Zendin110206/dart_latihan)                                                                       | Dart fundamentals practice                                                                                    |
+| Placeholder          | [superstore-profit-leak](https://github.com/Zendin110206/superstore-profit-leak)                                                   | Empty/placeholder repository, not featured                                                                    |
 
 </details>
 
