@@ -2,10 +2,10 @@
 
 # Muhammad Zaenal Abidin Abdurrahman
 
-**Data Science • Applied Machine Learning • Analytics • AI/Data Systems**
+**Data Science • Applied Machine Learning • Analytics • Operational AI/Data Systems**
 
 Telecommunication Engineering student at **Telkom University**<br>
-Building a portfolio around **data analysis, machine learning models, SQL/Python workflows, and practical AI/data applications**
+Building **data, ML, and operational software systems** from problem framing and field requirements to tested, deployable workflows
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-zendin1102-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zendin1102/)
 [![Email](https://img.shields.io/badge/Email-zendin.work%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:zendin.work@gmail.com)
@@ -21,13 +21,13 @@ Building a portfolio around **data analysis, machine learning models, SQL/Python
 
 ## Profile
 
-I use this GitHub profile as a curated portfolio of projects I am building while growing across data science, applied machine learning, analytics, and practical AI/data systems.
+I use this GitHub profile as a curated record of both portfolio work and collaborative systems built for real operational contexts. My work spans data science, applied machine learning, analytics, backend integration, and production-aware software delivery.
 
-My strongest interest is turning data into useful technical outputs: analysis that explains a problem, models that are evaluated honestly, APIs or demos that make the result usable, and documentation that makes the scope clear.
+My strongest interest is turning data into useful technical outputs: analysis that explains a problem, models that are evaluated honestly, APIs and applications that make the result usable, and documentation that makes the scope clear.
 
-The portfolio is intentionally broad enough for data science, data analyst/product analyst, AI intern, and applied ML opportunities, while still giving stronger emphasis to projects that connect analysis or modeling with usable workflows.
+The portfolio is intentionally broad enough for data science, data analyst/product analyst, AI, and applied ML opportunities, while giving stronger emphasis to projects that connect telemetry or analysis with usable operational workflows.
 
-I am still developing my depth in this field, so I try to keep each project clear about its scope, limitations, and what it is meant to demonstrate.
+I keep each project explicit about its evidence, team contribution, limitations, and operational maturity. A field pilot is described as a field pilot—not overstated as a fully hardened production system.
 
 ---
 
@@ -39,11 +39,29 @@ I am still developing my depth in this field, so I try to keep each project clea
 | Applied ML systems           | ML prototypes that can be served through APIs, connected to apps, and explained clearly   |
 | Analytics and decision tools | SQL/Python analysis, KPI thinking, dashboards, and decision-support outputs               |
 | AI/data integration          | Practical AI or data features connected to product flows, backend services, or demos      |
-| Telco and operational data   | Forecasting, anomaly candidates, and monitoring ideas for network-style time-series data  |
+| Telco and operational data   | Field telemetry, monitoring, forecasting, anomaly candidates, and decision-support workflows |
 
 ---
 
 ## Featured Portfolio
+
+### [FTM — Fuel Tank Management](https://github.com/Zendin110206/solar-tank-monitoring-system)
+
+Collaborative IoT fuel-tank monitoring system implemented as an active internal field pilot in the Telkom Indonesia/Telkominfra operational environment, within the TIF Pasuruan–Sidoarjo context. Physical ESP8266 devices send sensor telemetry through a validated API to Aiven MySQL, while a Vercel-hosted Next.js dashboard supports monitoring, account approval, device provisioning, CSV history, Telegram, and helpdesk workflows.
+
+**Verified snapshot (13–14 July 2026):** 3 registered sites/tanks/devices, more than 9,000 stored readings, 2 devices sending fresh telemetry during the audit, and 1 stale device correctly identified for follow-up.
+
+**My contribution:** project coordination; application architecture; backend and database flows; authentication; deployment; data lifecycle design; integration; automated testing; documentation; and review of collaborative contributions.
+
+**Stack:** `Next.js 16` `React 19` `TypeScript` `MySQL` `Aiven` `Vercel` `ESP8266` `Telegram Bot API` `Vitest`
+
+**Links:** [Repository](https://github.com/Zendin110206/solar-tank-monitoring-system) · [Live application](https://solar-tank-monitoring-system.vercel.app)
+
+**Engineering decisions:** live dashboard snapshots refresh every 20 seconds, while long-term history is rolled up into 5-minute mean/min/max/sample-count buckets to control storage growth.
+
+**Scope:** Active operational pilot with real devices and users. It is not presented as a nationally deployed Telkom product or a fully production-hardened safety system; firmware security, physical calibration, recovery drills, alerting, and site-scoped access remain explicit hardening gates.
+
+---
 
 ### [KoopCare MLOps Credit Scoring API](https://github.com/Zendin110206/koopcare-mlops-credit-scoring-api)
 
@@ -145,6 +163,7 @@ A combined learning track that supports the applied projects above: math notes, 
 
 | Area               | Project                                                                                                  | Short Description                                                                                      |
 | ------------------ | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
+| Operational IoT    | [FTM — Fuel Tank Management](https://github.com/Zendin110206/solar-tank-monitoring-system)               | Active field pilot connecting physical fuel sensors, MySQL telemetry, a Next.js dashboard, and operational workflows |
 | ML API             | [KoopCare MLOps Credit Scoring API](https://github.com/Zendin110206/koopcare-mlops-credit-scoring-api)   | ML inference API for credit-scoring decision support with documented limitations                       |
 | ML + Product       | [KoopCare Fullstack Demo](https://github.com/Zendin110206/koopcare-fullstack-demo-platform)              | Fullstack workflow connecting financing applications with ML-assisted review                           |
 | Telco ML           | [Telco KPI MLOps Platform](https://github.com/Zendin110206/telco-kpi-mlops-platform)                     | Forecasting and anomaly candidate detection for telecom KPI time-series data                           |
@@ -168,6 +187,7 @@ A combined learning track that supports the applied projects above: math notes, 
 | Group                | Repository                                                                                                                         | Notes                                                                                                            |
 | -------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
 | Profile              | [Zendin110206](https://github.com/Zendin110206/Zendin110206)                                                                       | This GitHub profile README                                                                                       |
+| Flagship Operational | [solar-tank-monitoring-system](https://github.com/Zendin110206/solar-tank-monitoring-system)                                       | Collaborative field pilot for real fuel-tank telemetry, provisioning, monitoring, and support workflows         |
 | Flagship ML/API      | [koopcare-mlops-credit-scoring-api](https://github.com/Zendin110206/koopcare-mlops-credit-scoring-api)                             | FastAPI + XGBoost decision-support inference API                                                                 |
 | Flagship ML/Product  | [koopcare-fullstack-demo-platform](https://github.com/Zendin110206/koopcare-fullstack-demo-platform)                               | Fullstack financing workflow demo integrated with ML scoring                                                     |
 | Flagship Telco       | [telco-kpi-mlops-platform](https://github.com/Zendin110206/telco-kpi-mlops-platform)                                               | Telco KPI forecasting and anomaly candidate detection prototype                                                  |
@@ -237,6 +257,7 @@ A combined learning track that supports the applied projects above: math notes, 
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 
@@ -246,6 +267,8 @@ A combined learning track that supports the applied projects above: math notes, 
 
 - I prefer projects with a clear problem, data flow, and practical output.
 - I document assumptions and limitations so the project does not claim more than it proves.
+- I distinguish development examples, verified operational evidence, rollout targets, and production-readiness claims.
+- I value collaborative ownership and make individual contributions clear without erasing the work of teammates or field stakeholders.
 - I care about clear data assumptions because models are only useful when their inputs, limits, and decisions can be explained.
 - I use telecom as a strong domain interest while keeping my portfolio open to broader data and ML problems.
 - I am gradually improving project structure, model evaluation, API design, and deployment habits.
