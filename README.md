@@ -2,10 +2,10 @@
 
 # Muhammad Zaenal Abidin Abdurrahman
 
-**Data Science • Applied Machine Learning • Analytics • AI/Data Systems**
+**Data Science • Applied Machine Learning • Analytics • AI/Data & IoT Systems**
 
 Telecommunication Engineering student at **Telkom University**<br>
-Building a portfolio around **data analysis, machine learning models, SQL/Python workflows, and practical AI/data applications**
+Building practical systems across **machine learning, analytics, APIs, telemetry, and operational workflows**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-zendin1102-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zendin1102/)
 [![Email](https://img.shields.io/badge/Email-zendin.work%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:zendin.work@gmail.com)
@@ -21,29 +21,51 @@ Building a portfolio around **data analysis, machine learning models, SQL/Python
 
 ## Profile
 
-I use this GitHub profile as a curated portfolio of projects I am building while growing across data science, applied machine learning, analytics, and practical AI/data systems.
+I use this GitHub profile as a curated portfolio of projects I am building while growing across data science, applied machine learning, analytics, and practical AI/data and IoT systems.
 
-My strongest interest is turning data into useful technical outputs: analysis that explains a problem, models that are evaluated honestly, APIs or demos that make the result usable, and documentation that makes the scope clear.
+My strongest interest is turning data into useful technical outputs: analysis that explains a problem, models that are evaluated honestly, APIs or telemetry pipelines that make the result usable, and documentation that makes the scope clear.
 
 The portfolio is intentionally broad enough for data science, data analyst/product analyst, AI intern, and applied ML opportunities, while still giving stronger emphasis to projects that connect analysis or modeling with usable workflows.
 
-I am still developing my depth in this field, so I try to keep each project clear about its scope, limitations, and what it is meant to demonstrate.
+My current focus is [FTM - Fuel Tank Management](https://github.com/Zendin110206/solar-tank-monitoring-system), an ongoing operational IoT system in active field use within a limited pilot during my practical internship with PT Telkom Infrastruktur Indonesia (TIF/InfraNexia). Registered field devices send live fuel-tank telemetry into a monitored data pipeline that supports operational users with visibility, device management, and support workflows. Additional devices are now being prepared for controlled, needs-based expansion.
+
+I am still developing my depth in this field, so I keep each project clear about its scope, limitations, ownership, and what it is meant to demonstrate.
 
 ---
 
 ## Long-Term Direction
 
-| Direction                    | What I am trying to build                                                                 |
-| ---------------------------- | ----------------------------------------------------------------------------------------- |
-| Data science workflows       | EDA, feature engineering, model evaluation, segmentation, and business-facing explanation  |
-| Applied ML systems           | ML prototypes that can be served through APIs, connected to apps, and explained clearly   |
-| Analytics and decision tools | SQL/Python analysis, KPI thinking, dashboards, and decision-support outputs               |
-| AI/data integration          | Practical AI or data features connected to product flows, backend services, or demos      |
-| Telco and operational data   | Forecasting, anomaly candidates, and monitoring ideas for network-style time-series data  |
+| Direction                         | What I am trying to build                                                                |
+| --------------------------------- | ---------------------------------------------------------------------------------------- |
+| Data science workflows            | EDA, feature engineering, model evaluation, segmentation, and business-facing explanation |
+| Applied ML systems                | ML prototypes that can be served through APIs, connected to apps, and explained clearly  |
+| Analytics and decision tools      | SQL/Python analysis, KPI thinking, dashboards, and decision-support outputs              |
+| AI/data integration               | Practical AI or data features connected to product flows and backend services            |
+| Telco, IoT, and operational data  | Telemetry, monitoring, forecasting, and anomaly analysis for field and network operations |
 
 ---
 
 ## Featured Portfolio
+
+### [FTM - Fuel Tank Management](https://github.com/Zendin110206/solar-tank-monitoring-system)
+
+Ongoing operational IoT system in active field use within a limited pilot during my practical internship with PT Telkom Infrastruktur Indonesia (TIF/InfraNexia). Registered ESP8266 devices connected to ultrasonic sensors send live fuel-tank telemetry through an authenticated Next.js ingestion service into Aiven MySQL, supporting operational monitoring for users and admins, device provisioning, CSV export, Telegram, and helpdesk workflows.
+
+**My contribution:** project coordination; application architecture; server-side and database work; identity and device workflows; deployment; integration; testing; review; and documentation, in collaboration with field/device/firmware and UI/UX contributors.
+
+**Verified pilot snapshot (13-14 July 2026):** 3 registered locations, 3 tanks, and 3 physical devices; 9,272 telemetry readings; 2 devices reporting fresh data and 1 requiring follow-up. Live views use the latest per-device snapshot, while 5-minute historical rollups reduce row growth by about 15x versus storing every 20-second reading.
+
+**Quality snapshot (16 July 2026):** TypeScript typecheck, ESLint, all 160 automated tests, and the Next.js production build passed on the current main branch.
+
+**Shows:** operational data systems, IoT telemetry ingestion, full-stack architecture, MySQL data lifecycle, authentication and provisioning, field collaboration, CI, and public-safe technical documentation
+
+**Stack:** `Next.js 16` `React 19` `TypeScript` `MySQL` `ESP8266` `Telegram Bot API` `Vercel` `Vitest`
+
+**Status and scope:** In active operational use within a limited field pilot; not a nationally deployed or fully production-hardened corporate system. Additional devices are being prepared for controlled expansion, while the repository remains ongoing beyond the internship period through security, calibration, alerting, recovery, access control, observability, and operational analytics work.
+
+**Links:** [Live application](https://solar-tank-monitoring-system.vercel.app) · [Operational status](https://github.com/Zendin110206/solar-tank-monitoring-system/blob/main/docs/current-operational-truth.md) · [Architecture](https://github.com/Zendin110206/solar-tank-monitoring-system/blob/main/docs/architecture.md)
+
+---
 
 ### [KoopCare MLOps Credit Scoring API](https://github.com/Zendin110206/koopcare-mlops-credit-scoring-api)
 
@@ -135,7 +157,7 @@ A combined learning track that supports the applied projects above: math notes, 
 
 **Shows:** mathematical intuition, structured learning discipline, Python/SQL fluency, notebook-based ML practice, testable small-program implementation, and gradual preparation for applied ML work
 
-**Related:** [ML Path to Mastery](https://github.com/Zendin110206/ml-path-to-mastery), [AI Development B10 Learning Portfolio](https://github.com/Zendin110206/tugas_python_ai_b10), [Python Projects Learning Portfolio](https://github.com/Zendin110206/python-projects-learning-portfolio), [HackerRank SQL Certification Prep](https://github.com/Zendin110206/hackerrank-sql-certification-prep), [Linear Regression from Scratch](https://github.com/Zendin110206/linear-regression-scratch-python), [NLP with HF Transformers](https://github.com/Zendin110206/NLP_with_HF_Transformers), [RAG Parameter Exploration](https://github.com/Zendin110206/tugas-rag-nlp)
+**Related:** [ML Path to Mastery](https://github.com/Zendin110206/ml-path-to-mastery), [ML Hands-On Learning Lab](https://github.com/Zendin110206/ml-hands-on-learning-lab), [AI Development B10 Learning Portfolio](https://github.com/Zendin110206/tugas_python_ai_b10), [Python Projects Learning Portfolio](https://github.com/Zendin110206/python-projects-learning-portfolio), [HackerRank SQL Certification Prep](https://github.com/Zendin110206/hackerrank-sql-certification-prep), [Linear Regression from Scratch](https://github.com/Zendin110206/linear-regression-scratch-python), [NLP with HF Transformers](https://github.com/Zendin110206/NLP_with_HF_Transformers), [RAG Parameter Exploration](https://github.com/Zendin110206/tugas-rag-nlp)
 
 ---
 
@@ -145,6 +167,7 @@ A combined learning track that supports the applied projects above: math notes, 
 
 | Area               | Project                                                                                                  | Short Description                                                                                      |
 | ------------------ | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
+| Operational IoT    | [FTM - Fuel Tank Management](https://github.com/Zendin110206/solar-tank-monitoring-system)              | Ongoing field pilot connecting fuel-tank telemetry, MySQL, device operations, dashboards, and Telegram |
 | ML API             | [KoopCare MLOps Credit Scoring API](https://github.com/Zendin110206/koopcare-mlops-credit-scoring-api)   | ML inference API for credit-scoring decision support with documented limitations                       |
 | ML + Product       | [KoopCare Fullstack Demo](https://github.com/Zendin110206/koopcare-fullstack-demo-platform)              | Fullstack workflow connecting financing applications with ML-assisted review                           |
 | Telco ML           | [Telco KPI MLOps Platform](https://github.com/Zendin110206/telco-kpi-mlops-platform)                     | Forecasting and anomaly candidate detection for telecom KPI time-series data                           |
@@ -153,6 +176,7 @@ A combined learning track that supports the applied projects above: math notes, 
 | Data Foundations   | [HackerRank SQL Certification Prep](https://github.com/Zendin110206/hackerrank-sql-certification-prep)   | 57 accepted SQL practice solutions with verified SQL Basic, Intermediate, and Advanced certificates    |
 | ML Foundations     | [Linear Regression from Scratch](https://github.com/Zendin110206/linear-regression-scratch-python)       | NumPy implementation of linear regression, MSE, and gradient descent                                   |
 | Learning Log       | [ML Path to Mastery](https://github.com/Zendin110206/ml-path-to-mastery)                                 | Long-term math and ML foundation notes for applied machine learning                                    |
+| ML Practice        | [ML Hands-On Learning Lab](https://github.com/Zendin110206/ml-hands-on-learning-lab)                     | Problem-first practice for EDA, preprocessing, model evaluation, and explain-back learning             |
 | AI Learning        | [AI Development B10 Learning Portfolio](https://github.com/Zendin110206/tugas_python_ai_b10)             | Structured Python, SQL, ML, deep learning, NLP, RAG, and practice archive                              |
 | Python Practice    | [Python Projects Learning Portfolio](https://github.com/Zendin110206/python-projects-learning-portfolio) | 21-project Python practice portfolio with documentation, automated checks, linting, and GitHub Actions |
 | Business Analytics | [HR Analytics SQL + Power BI](https://github.com/Zendin110206/hr-analytics-sql-powerbi)                  | Attrition analytics dashboard with SQL preparation and action-oriented BI                              |
@@ -168,6 +192,7 @@ A combined learning track that supports the applied projects above: math notes, 
 | Group                | Repository                                                                                                                         | Notes                                                                                                            |
 | -------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
 | Profile              | [Zendin110206](https://github.com/Zendin110206/Zendin110206)                                                                       | This GitHub profile README                                                                                       |
+| Operational IoT      | [solar-tank-monitoring-system](https://github.com/Zendin110206/solar-tank-monitoring-system)                                       | Active limited FTM pilot for telemetry, device provisioning, monitoring, Telegram, and operational workflows    |
 | Flagship ML/API      | [koopcare-mlops-credit-scoring-api](https://github.com/Zendin110206/koopcare-mlops-credit-scoring-api)                             | FastAPI + XGBoost decision-support inference API                                                                 |
 | Flagship ML/Product  | [koopcare-fullstack-demo-platform](https://github.com/Zendin110206/koopcare-fullstack-demo-platform)                               | Fullstack financing workflow demo integrated with ML scoring                                                     |
 | Flagship Telco       | [telco-kpi-mlops-platform](https://github.com/Zendin110206/telco-kpi-mlops-platform)                                               | Telco KPI forecasting and anomaly candidate detection prototype                                                  |
@@ -183,6 +208,7 @@ A combined learning track that supports the applied projects above: math notes, 
 | SQL Foundations      | [sql-data-cleaning-nashville](https://github.com/Zendin110206/sql-data-cleaning-nashville)                                         | SQL data cleaning, parsing, standardization, and deduplication                                                   |
 | ML Foundations       | [linear-regression-scratch-python](https://github.com/Zendin110206/linear-regression-scratch-python)                               | Linear regression implemented from first principles in NumPy                                                     |
 | ML Foundations       | [ml-path-to-mastery](https://github.com/Zendin110206/ml-path-to-mastery)                                                           | Math and ML foundation notes for long-term applied ML preparation                                                |
+| ML Practice          | [ml-hands-on-learning-lab](https://github.com/Zendin110206/ml-hands-on-learning-lab)                                               | Problem-first learning lab for EDA, preprocessing, model evaluation, and applied ML practice                    |
 | ML Practice          | [titanic-survival-prediction](https://github.com/Zendin110206/titanic-survival-prediction)                                         | Kaggle Titanic classification practice with feature engineering                                                  |
 | AI Learning          | [tugas_python_ai_b10](https://github.com/Zendin110206/tugas_python_ai_b10)                                                         | Structured Python, SQL, ML, deep learning, NLP, and RAG learning archive                                         |
 | Python Practice      | [python-projects-learning-portfolio](https://github.com/Zendin110206/python-projects-learning-portfolio)                           | 21 small Python projects for fundamentals, CLI apps, tests, Ruff linting, and CI practice                        |
@@ -236,9 +262,17 @@ A combined learning track that supports the applied projects above: math notes, 
 ### API and App Integration
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+
+### Operational IoT and Delivery
+
+![ESP8266](https://img.shields.io/badge/ESP8266-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram_Bot-26A5E4?style=flat-square&logo=telegram&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
 
 ---
 
@@ -247,13 +281,15 @@ A combined learning track that supports the applied projects above: math notes, 
 - I prefer projects with a clear problem, data flow, and practical output.
 - I document assumptions and limitations so the project does not claim more than it proves.
 - I care about clear data assumptions because models are only useful when their inputs, limits, and decisions can be explained.
+- I value field feedback, contributor attribution, public-safe documentation, and small reviewable checkpoints.
+- I run type, lint, test, and build checks where the project supports them, and I treat operational data and credentials as private by default.
 - I use telecom as a strong domain interest while keeping my portfolio open to broader data and ML problems.
-- I am gradually improving project structure, model evaluation, API design, and deployment habits.
+- I am gradually improving project structure, model evaluation, API design, deployment, observability, and operational reliability.
 
 ---
 
 <div align="center">
 
-Thanks for visiting. I keep this profile updated as the portfolio becomes more focused and mature.
+Thanks for visiting. I keep this profile updated as the portfolio becomes more focused, field-informed, and mature.
 
 </div>
