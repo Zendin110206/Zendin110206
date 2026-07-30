@@ -25,11 +25,11 @@ I use this GitHub profile as a curated portfolio of projects I am building while
 
 My strongest interest is turning data into useful technical outputs: analysis that explains a problem, models that are evaluated honestly, APIs or telemetry pipelines that make the result usable, and documentation that makes the scope clear.
 
-The portfolio is intentionally broad enough for data science, data analyst/product analyst, AI intern, and applied ML opportunities, while still giving stronger emphasis to projects that connect analysis or modeling with usable workflows.
+The portfolio is intentionally broad enough for data science, data analyst/product analyst, AI intern, and applied ML opportunities, while still placing stronger emphasis on projects that connect analysis or modeling to usable workflows.
 
 My current focus is [FTM - Fuel Tank Management](https://github.com/Zendin110206/solar-tank-monitoring-system), an ongoing operational IoT system in active field use within a limited pilot during my practical internship with PT Telkom Infrastruktur Indonesia (TIF/InfraNexia). Registered field devices send live fuel-tank telemetry into a monitored data pipeline that supports operational users with visibility, device management, and support workflows. Additional devices are now being prepared for controlled, needs-based expansion.
 
-I am still developing my depth in this field, so I keep each project clear about its scope, limitations, ownership, and what it is meant to demonstrate.
+I am still developing my depth in this field, so I keep each project's scope, limitations, ownership, and intended demonstration clear.
 
 ---
 
