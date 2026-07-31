@@ -53,7 +53,7 @@ Ongoing operational IoT system in active field use within a limited pilot during
 
 **My contribution:** project coordination; application architecture; server-side and database work; identity and device workflows; deployment; integration; testing; review; and documentation, in collaboration with field/device/firmware and UI/UX contributors.
 
-**Verified pilot snapshot (13-14 July 2026):** 6 registered locations, 6 tanks, and 6 physical devices; 191.954 telemetry readings; 3 devices reporting fresh data and 3 requiring follow-up. Live views use the latest per-device snapshot, while 5-minute historical rollups reduce row growth by about 15x versus storing every 20-second reading.
+**Verified pilot snapshot (30-31 July 2026):** 6 registered locations, 6 tanks, and 6 physical devices; 191.954 telemetry readings; 3 devices reporting fresh data and 3 requiring follow-up. Live views use the latest per-device snapshot, while 5-minute historical rollups reduce row growth by about 15x versus storing every 20-second reading.
 
 **Quality snapshot (16 July 2026):** TypeScript typecheck, ESLint, all 160 automated tests, and the Next.js production build passed on the current main branch.
 
