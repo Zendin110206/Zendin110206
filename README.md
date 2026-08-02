@@ -55,7 +55,7 @@ Ongoing operational IoT system in active field use within a limited pilot during
 
 **Operational value:** centralizes tank level, device connectivity, and historical trends across locations so operational users can prioritize inspection and follow-up instead of relying only on repeated manual checks. It is a monitoring and decision-support pilot; it does not automatically control gensets, refilling, or fuel valves.
 
-**Verified pilot snapshot (30 July 2026):** 6 registered locations, 6 tanks, and 6 physical devices. Five devices were active: 3 reporting fresh data and 2 offline; 1 inactive record was waiting for its first valid telemetry. The verified history represented 210,741 telemetry samples, while 5-minute rollups averaged 14.81 samples per stored row. Live views use the latest per-device snapshot to avoid scanning the full history for current status.
+**Verified pilot snapshot (2 August 2026):** 6 registered locations, 6 tanks, and 6 physical devices. Five devices were active: 3 online and 2 offline; 1 device was inactive. The verified history represented 247,639 telemetry samples across 23,889 stored rows. Five-minute rollups represented 239,945 samples in 16,195 rows, averaging 14.82 samples per row. Live views use the latest per-device snapshot to avoid scanning the full history for current status.
 
 **Quality snapshot (16 July 2026):** TypeScript typecheck, ESLint, all 160 automated tests, and the Next.js production build passed on the current main branch.
 
