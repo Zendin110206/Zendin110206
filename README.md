@@ -85,7 +85,7 @@ FastAPI-based ML inference service for a cooperative financing decision-support 
 
 Fullstack demo platform that connects a member financing application flow with ML-assisted review. It includes application intake, backend validation, status lookup, admin review queue, scoring, rescoring, and decision workflow.
 
-**Shows:** fullstack product flow, backend-to-ML API integration, admin/user workflow design, AI as decision support
+**Shows:** full-stack product flow, backend-to-ML API integration, admin/user workflow design, AI as decision support
 
 **Stack:** `React` `Vite` `TypeScript` `Express` `REST API` `ML Integration`
 
