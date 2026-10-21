@@ -115,17 +115,15 @@ Collaborative filtering book recommender with a modular ML pipeline, KNN-based r
 
 ---
 
-### [PyTorch Deep Learning: Five Projects](https://github.com/Zendin110206/pytorch-5-projects-learning)
+### [PyTorch 5 Projects Learning](https://github.com/Zendin110206/pytorch-5-projects-learning)
 
-Deep learning foundations built by working through Omar M. Atef's five-project PyTorch course (freeCodeCamp.org) on a local NVIDIA RTX 4050 GPU instead of Colab. Every notebook was typed and run end to end, covering data preparation, custom `Dataset`/`DataLoader` pipelines, model definition, training and validation loops, testing, plotting, and inference, with study notes that explain each step.
+Hands-on PyTorch practice following Omar M. Atef's five-project course on freeCodeCamp, run locally on my own GPU. It covers tabular classification, an image CNN built from scratch, transfer learning with GoogLeNet, audio classification with mel spectrograms, and text classification with BERT.
 
-**Held-out test results:** rice type classification 99.1% (feed-forward network) · animal faces 96.7% (CNN built from scratch) · bean leaf lesions 88.9% (fine-tuned GoogLeNet) · Quran reciter identification across 12 classes 96.7% (CNN on mel spectrograms) · sarcastic headline detection 85.6% (frozen BERT with a trained classification head)
+**Shows:** PyTorch `Dataset`/`DataLoader` pipelines, training and evaluation loops, CNNs, transfer learning, audio and text preprocessing
 
-**Shows:** PyTorch training workflows, CNNs, transfer learning, audio feature extraction, Transformer-based text classification, correct `train()`/`eval()` handling for BatchNorm and Dropout, honest loss and accuracy reporting, and reproducible GPU environments with uv
+**Stack:** `PyTorch` `torchvision` `Hugging Face Transformers` `librosa` `scikit-learn`
 
-**Stack:** `PyTorch` `torchvision` `Hugging Face Transformers` `BERT` `librosa` `scikit-learn` `CUDA` `uv`
-
-**Scope:** Guided learning project based on a public course, with several issues in the original notebooks corrected and documented (missing evaluation mode, loss averaging, and plotting limits); not original research or production models.
+**Scope:** Learning project based on a public course, not original research or production models.
 
 ---
 
@@ -176,11 +174,11 @@ A combined learning track that supports the applied projects above: math notes, 
 | ML + Product       | [KoopCare Fullstack Demo](https://github.com/Zendin110206/koopcare-fullstack-demo-platform)              | Fullstack workflow connecting financing applications with ML-assisted review                           |
 | Telco ML           | [Telco KPI MLOps Platform](https://github.com/Zendin110206/telco-kpi-mlops-platform)                     | Forecasting and anomaly candidate detection for telecom KPI time-series data                           |
 | Recommender System | [BookFlix](https://github.com/Zendin110206/End-to-End-Book-Recommendation-System)                        | End-to-end collaborative filtering app with Streamlit and Docker                                       |
-| Deep Learning      | [PyTorch Deep Learning: Five Projects](https://github.com/Zendin110206/pytorch-5-projects-learning)      | Tabular, CNN, transfer learning, audio, and frozen-BERT text classification trained on a local GPU     |
 | Data Foundations   | [HackerRank SQL Certification Prep](https://github.com/Zendin110206/hackerrank-sql-certification-prep)   | 57 accepted SQL practice solutions with verified SQL Basic, Intermediate, and Advanced certificates    |
 | ML Foundations     | [Linear Regression from Scratch](https://github.com/Zendin110206/linear-regression-scratch-python)       | NumPy implementation of linear regression, MSE, and gradient descent                                   |
 | Learning Log       | [ML Path to Mastery](https://github.com/Zendin110206/ml-path-to-mastery)                                 | Long-term math and ML foundation notes for applied machine learning                                    |
 | ML Practice        | [ML Hands-On Learning Lab](https://github.com/Zendin110206/ml-hands-on-learning-lab)                     | Problem-first practice for EDA, preprocessing, model evaluation, and explain-back learning             |
+| Deep Learning      | [PyTorch 5 Projects Learning](https://github.com/Zendin110206/pytorch-5-projects-learning)               | Course-based PyTorch practice across tabular, image, audio, and text classification                    |
 | AI Learning        | [AI Development B10 Learning Portfolio](https://github.com/Zendin110206/tugas_python_ai_b10)             | Structured Python, SQL, ML, deep learning, NLP, RAG, and practice archive                              |
 | Python Practice    | [Python Projects Learning Portfolio](https://github.com/Zendin110206/python-projects-learning-portfolio) | 21-project Python practice portfolio with documentation, automated checks, linting, and GitHub Actions |
 | Business Analytics | [HR Analytics SQL + Power BI](https://github.com/Zendin110206/hr-analytics-sql-powerbi)                  | Attrition analytics dashboard with SQL preparation and action-oriented BI                              |
@@ -214,7 +212,7 @@ A combined learning track that supports the applied projects above: math notes, 
 | ML Foundations       | [ml-path-to-mastery](https://github.com/Zendin110206/ml-path-to-mastery)                                                           | Math and ML foundation notes for long-term applied ML preparation                                                |
 | ML Practice          | [ml-hands-on-learning-lab](https://github.com/Zendin110206/ml-hands-on-learning-lab)                                               | Problem-first learning lab for EDA, preprocessing, model evaluation, and applied ML practice                    |
 | ML Practice          | [titanic-survival-prediction](https://github.com/Zendin110206/titanic-survival-prediction)                                         | Kaggle Titanic classification practice with feature engineering                                                  |
-| Deep Learning        | [pytorch-5-projects-learning](https://github.com/Zendin110206/pytorch-5-projects-learning)                                         | Five PyTorch projects: tabular, CNN, transfer learning, audio, and BERT text classification on a local GPU       |
+| Deep Learning        | [pytorch-5-projects-learning](https://github.com/Zendin110206/pytorch-5-projects-learning)                                         | Course-based PyTorch practice across tabular, image, audio, and text classification                              |
 | AI Learning          | [tugas_python_ai_b10](https://github.com/Zendin110206/tugas_python_ai_b10)                                                         | Structured Python, SQL, ML, deep learning, NLP, and RAG learning archive                                         |
 | Python Practice      | [python-projects-learning-portfolio](https://github.com/Zendin110206/python-projects-learning-portfolio)                           | 21 small Python projects for fundamentals, CLI apps, tests, Ruff linting, and CI practice                        |
 | NLP/RAG              | [NLP_with_HF_Transformers](https://github.com/Zendin110206/NLP_with_HF_Transformers)                                               | Hugging Face Transformers practice for common NLP tasks                                                          |
