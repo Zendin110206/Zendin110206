@@ -115,15 +115,17 @@ Collaborative filtering book recommender with a modular ML pipeline, KNN-based r
 
 ---
 
-### [IMV Customer Segmentation with K-Means](https://github.com/Zendin110206/imv-customer-segmentation-kmeans)
+### [PyTorch Deep Learning: Five Projects](https://github.com/Zendin110206/pytorch-5-projects-learning)
 
-Customer segmentation project using the Olist Brazilian E-Commerce Public Dataset. It turns raw relational e-commerce tables into customer-level behavioral features, evaluates K-Means cluster options, and explains the final customer segments in business-friendly language.
+Deep learning foundations built by working through Omar M. Atef's five-project PyTorch course (freeCodeCamp.org) on a local NVIDIA RTX 4050 GPU instead of Colab. Every notebook was typed and run end to end, covering data preparation, custom `Dataset`/`DataLoader` pipelines, model definition, training and validation loops, testing, plotting, and inference, with study notes that explain each step.
 
-**Shows:** customer analytics, raw data audit, customer-level feature engineering, clustering evaluation, segment profiling, business interpretation
+**Held-out test results:** rice type classification 99.1% (feed-forward network) · animal faces 96.7% (CNN built from scratch) · bean leaf lesions 88.9% (fine-tuned GoogLeNet) · Quran reciter identification across 12 classes 96.7% (CNN on mel spectrograms) · sarcastic headline detection 85.6% (frozen BERT with a trained classification head)
 
-**Stack:** `Python` `Pandas` `NumPy` `scikit-learn` `K-Means` `Matplotlib` `Seaborn`
+**Shows:** PyTorch training workflows, CNNs, transfer learning, audio feature extraction, Transformer-based text classification, correct `train()`/`eval()` handling for BatchNorm and Dropout, honest loss and accuracy reporting, and reproducible GPU environments with uv
 
-**Scope:** Individual machine learning assignment using public anonymized e-commerce data, not production customer labels.
+**Stack:** `PyTorch` `torchvision` `Hugging Face Transformers` `BERT` `librosa` `scikit-learn` `CUDA` `uv`
+
+**Scope:** Guided learning project based on a public course, with several issues in the original notebooks corrected and documented (missing evaluation mode, loss averaging, and plotting limits); not original research or production models.
 
 ---
 
@@ -174,7 +176,7 @@ A combined learning track that supports the applied projects above: math notes, 
 | ML + Product       | [KoopCare Fullstack Demo](https://github.com/Zendin110206/koopcare-fullstack-demo-platform)              | Fullstack workflow connecting financing applications with ML-assisted review                           |
 | Telco ML           | [Telco KPI MLOps Platform](https://github.com/Zendin110206/telco-kpi-mlops-platform)                     | Forecasting and anomaly candidate detection for telecom KPI time-series data                           |
 | Recommender System | [BookFlix](https://github.com/Zendin110206/End-to-End-Book-Recommendation-System)                        | End-to-end collaborative filtering app with Streamlit and Docker                                       |
-| Customer ML        | [IMV Customer Segmentation](https://github.com/Zendin110206/imv-customer-segmentation-kmeans)            | K-Means segmentation on Olist e-commerce customer behavior with business interpretation                |
+| Deep Learning      | [PyTorch Deep Learning: Five Projects](https://github.com/Zendin110206/pytorch-5-projects-learning)      | Tabular, CNN, transfer learning, audio, and frozen-BERT text classification trained on a local GPU     |
 | Data Foundations   | [HackerRank SQL Certification Prep](https://github.com/Zendin110206/hackerrank-sql-certification-prep)   | 57 accepted SQL practice solutions with verified SQL Basic, Intermediate, and Advanced certificates    |
 | ML Foundations     | [Linear Regression from Scratch](https://github.com/Zendin110206/linear-regression-scratch-python)       | NumPy implementation of linear regression, MSE, and gradient descent                                   |
 | Learning Log       | [ML Path to Mastery](https://github.com/Zendin110206/ml-path-to-mastery)                                 | Long-term math and ML foundation notes for applied machine learning                                    |
@@ -212,6 +214,7 @@ A combined learning track that supports the applied projects above: math notes, 
 | ML Foundations       | [ml-path-to-mastery](https://github.com/Zendin110206/ml-path-to-mastery)                                                           | Math and ML foundation notes for long-term applied ML preparation                                                |
 | ML Practice          | [ml-hands-on-learning-lab](https://github.com/Zendin110206/ml-hands-on-learning-lab)                                               | Problem-first learning lab for EDA, preprocessing, model evaluation, and applied ML practice                    |
 | ML Practice          | [titanic-survival-prediction](https://github.com/Zendin110206/titanic-survival-prediction)                                         | Kaggle Titanic classification practice with feature engineering                                                  |
+| Deep Learning        | [pytorch-5-projects-learning](https://github.com/Zendin110206/pytorch-5-projects-learning)                                         | Five PyTorch projects: tabular, CNN, transfer learning, audio, and BERT text classification on a local GPU       |
 | AI Learning          | [tugas_python_ai_b10](https://github.com/Zendin110206/tugas_python_ai_b10)                                                         | Structured Python, SQL, ML, deep learning, NLP, and RAG learning archive                                         |
 | Python Practice      | [python-projects-learning-portfolio](https://github.com/Zendin110206/python-projects-learning-portfolio)                           | 21 small Python projects for fundamentals, CLI apps, tests, Ruff linting, and CI practice                        |
 | NLP/RAG              | [NLP_with_HF_Transformers](https://github.com/Zendin110206/NLP_with_HF_Transformers)                                               | Hugging Face Transformers practice for common NLP tasks                                                          |
@@ -250,6 +253,8 @@ A combined learning track that supports the applied projects above: math notes, 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
